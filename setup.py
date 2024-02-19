@@ -140,5 +140,5 @@ setup(
         "Environment :: GPU :: NVIDIA CUDA",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "Topic :: System :: Distributed Computing",
-    ]
+    ],
 )
